@@ -1,0 +1,5 @@
+spendwise-python/
+│
+├── main.py
+├── database.py
+└── spendwise.db
